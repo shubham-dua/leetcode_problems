@@ -1,3 +1,5 @@
+# Perfect Squares
+
 class Solution:
     d = {}
     def numSquares(self, n: int) -> int:
