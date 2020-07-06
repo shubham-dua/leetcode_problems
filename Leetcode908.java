@@ -1,3 +1,4 @@
+// smallest range
 class Solution 
 {
     public int smallestRangeI(int[] A, int K) 
